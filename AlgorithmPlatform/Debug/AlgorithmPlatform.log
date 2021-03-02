@@ -1,0 +1,15 @@
+﻿  AlgorithmPlatformDlg.cpp
+  SportAlgorithm.cpp
+C:\Users\yumin\Desktop\test\AlgorithmPlatform\AlgorithmPlatform\SportAlgorithm.cpp(239,13): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\yumin\Desktop\test\AlgorithmPlatform\AlgorithmPlatform\SportAlgorithm.cpp(256,18): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\yumin\Desktop\test\AlgorithmPlatform\AlgorithmPlatform\SportAlgorithm.cpp(260,26): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+  正在生成代码...
+  AlgorithmPlatform.vcxproj -> C:\Users\yumin\Desktop\test\AlgorithmPlatform\Debug\AlgorithmPlatform.exe
